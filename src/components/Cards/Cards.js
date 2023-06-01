@@ -22,7 +22,7 @@ EPISODI TOP
         
         
           image={img1}
-          heading={"CRESCITA"}
+          heading={"FAST FASHION"}
           line={
             "Libera il tuo potenziale. Conversazioni stimolanti. Mentalità in trasformazione. Abbraccia la crescita"
           }
@@ -38,7 +38,7 @@ EPISODI TOP
         />
         <SingleCard
           image={img3}
-          heading={"BENESSERE"}
+          heading={"LIVE"}
           line={
             "Coltiva la tua mente e il tuo corpo. Consulenza di esperti per il benessere olistico. Coltiva la felicità"
           }
